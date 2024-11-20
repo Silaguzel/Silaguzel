@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Welcome! I'm *Sıla Güzel*
 
-<!--
-**Silaguzel/Silaguzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*MIS Student | Ex YetGen Leader | Project Manager*
 
-Here are some ideas to get you started:
+I'm a third-year Management Information Systems student with a passion for software development and strong
+leadership skills. Combining technical expertise with business knowledge, I aim to contribute to
+innovative projects that bridge technology and business solutions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- ### 🚀 *About Me*
+
+- *AI Developer Intern* at *Haliç University, focused on advanced **Computer Vision* projects.
+- *YetGen Leader* at *YetGen*, where I organized and led workshops for .
+- *Project Leader* for *Teknofest* and *TÜBİTAK 2209-A* competitions, driving solutions in *air defense* and other cutting-edge tech areas. -->
+
+---
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,typescript,css,html,docker,git" />
+    <img src="https://skillicons.dev/icons?i=sklearn,python,redis,pytorch,firebase,cpp,tensorflow,cmake" /><br>
+</div>
