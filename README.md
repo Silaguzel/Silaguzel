@@ -16,9 +16,9 @@ innovative projects that bridge technology and business solutions.
 
 ---
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<!-- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,typescript,css,html,docker,git" />
     <img src="https://skillicons.dev/icons?i=sklearn,python,redis,pytorch,firebase,cpp,tensorflow,cmake" /><br>
-</div>
+</div> -->
